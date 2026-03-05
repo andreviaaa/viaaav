@@ -1,6 +1,6 @@
-## ***Personal portfolio site***
+### ***Personal portfolio site***
 
-Live at: [https://andreviaaa.github.io](https://andreviaaa.github.io/viaaav)
+Live at: [https://andreviaaa.github.io](https://andreviaaa.github.io)
 
 ---
 
