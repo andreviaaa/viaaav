@@ -261,7 +261,7 @@ button,
 .handle {
     font-family: var(--mono);
     font-size: 0.72rem;
-    color: var(--muted);
+    color: var(--text);
     letter-spacing: 0.1em;
     margin-bottom: 0.3rem;
     transition: color var(--trans);
